@@ -1,1 +1,1 @@
-# google-homepage
+This is a part of assignments that I'll be doing as part of The Odin Project. The goal here is to make a webpage that looks like the Google homepage, and additionally hard code a Google search page too.
