@@ -7,7 +7,14 @@ nav {
     flex-direction: row;
 }
 
-a   {
+ul  {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a    {
+    display: inline;
     margin: 5px;
     padding: 5px;
     text-decoration: none;
