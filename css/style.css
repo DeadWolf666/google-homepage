@@ -87,3 +87,16 @@ a:hover {
     margin-top: 10px;
     justify-content: center;
 }
+
+#footer {
+    display: flex;
+    position: fixed;
+    margin: 10px;
+    left: 0;
+    bottom: 0;
+    white-space: nowrap;
+}
+
+#bottomgap  {
+    width: 900px;
+}
