@@ -88,6 +88,15 @@ a:hover {
     justify-content: center;
 }
 
+.action_button  {
+    color: rgb(95, 99, 104);
+    margin: 5px;
+}
+
+.action_button:hover    {
+    cursor: pointer;
+}
+
 #footer {
     display: flex;
     position: fixed;
@@ -99,4 +108,9 @@ a:hover {
 
 #bottomgap  {
     width: 855px;
+}
+
+.bottomlinks    {
+    color:  rgb(95, 99, 104);
+    text-decoration-color: rgb(95, 99, 104);
 }
